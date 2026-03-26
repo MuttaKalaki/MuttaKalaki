@@ -1,96 +1,106 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,50:5b86e5,100:000428&height=200&section=header&text=Vanakam%20Nanbargale%20📘✨&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,50:ff5e62,100:00c9ff&height=220&section=header&text=Vanakam%20Nanbargale%20😎🔥&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Exam+Preparation+Repo+📚;MCA+Lab+Programs+💻;Code+Practice+Made+Easy+🚀;Learn+%2B+Revise+%2B+Score+High+🔥"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&width=700&lines=Exam+Ah%3F+Bayapadadhe+😂;Copy+Pannu+Pass+Agalam+😎;Last+Minute+Save+Panra+Repo+🔥;Internal+Marks+Kaaga+Porattam+💀;Code+Iruku+Life+Safe+💯"/>
 </p>
 
----
-
-# 📘 About This Repository
-
-<img align="right" width="280" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
-
-📚 This repository is created for **exam preparation & lab practice**
-💻 Contains programs, examples, and important concepts
-🎯 Focused on **scoring high in exams**
-⚡ Simple, clean, and easy to revise
-
----
-
-# 🧠 Contents
+<!-- HERO GIF -->
 
 <p align="center">
-📌 Python Programs  
-📌 OOP Concepts  
-📌 File Handling  
-📌 Web Development (HTML, CSS, JS)  
-📌 Mini Projects  
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="350"/>
 </p>
 
 ---
 
-# 🛠️ Technologies Used
+# 😂 Repo Purpose (Truth Revealed)
+
+<img align="right" width="280" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+
+📚 Study panna time illa 😭
+🧠 Memory full ah illa 🤯
+⏰ Last minute panic 😵
+
+👉 So solution:
+💻 **Open repo → Copy code → Pass exam 😎**
+
+---
+
+# 📂 Content (Life Saving Materials)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,r,github,vscode"/>
+🐍 Python Programs (🔥 MOST IMPORTANT)  
+📄 OOP Codes (Just copy, don’t think 😂)  
+📁 File Handling (Read/write life saver 💯)  
+🌐 HTML/CSS (Design ah vida marks mukkiyam 😎)  
+⚡ JavaScript (If needed only 😴)  
 </p>
 
 ---
 
-# 📂 Structure
+# ⚡ How To Use (Exam Hall Secret 🤫)
 
-```id="u9g1v2"
-📦 Exam Repo
- ┣ 📂 Python
- ┣ 📂 Web Development
- ┣ 📂 Mini Projects
- ┗ 📜 README.md
-```
+1️⃣ Open GitHub 😎
+2️⃣ Find correct program 🔍
+3️⃣ Copy paste ✂️
+4️⃣ थोड़ा change pannunga (important 😂)
+5️⃣ Submit paper like a legend 🧠🔥
 
 ---
 
-# ⚡ How to Use
+# 🚨 Golden Rules
 
-1️⃣ Open any folder
-2️⃣ Run the programs
-3️⃣ Practice regularly
-4️⃣ Revise before exam
+❌ Same code copy pannadhe (sir catch pannuva 😭)
+❌ Logic explain panna sonna → Smile 😅
 
----
-
-# 🔥 Pro Tips for Exams
-
-✔ Understand logic, not just code
-✔ Practice important programs
-✔ Revise OOP & File Handling
-✔ Write clean and readable code
+✅ Variable name change pannunga
+✅ Output konjam adjust pannunga
+✅ Confidence ah ezhudu 😎
 
 ---
 
-# 💡 Motivation
+# 🌀 Emergency Situation
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250"/>
+</p>
+
+😨 Question puriyala?
+👉 Open repo
+👉 Scroll pannunga
+👉 Edhachum match aagum 😎
+
+---
+
+# 🧠 Brain Status During Exam
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqF2y0Z1A1zK7lS/giphy.gif" width="250"/>
 </p>
 
 ---
 
-# 🎯 Goal
+# 🏆 Final Goal
 
-📈 Practice daily
-📘 Revise smartly
-🏆 Score high in exams
+📄 Pass aganum
+😎 Arrears vara koodadhu
+🎉 Celebration after exam
+
+---
+
+# 💬 Dialogue
+
+“Padikka mudiyala… but pass aaganum 😎🔥”
 
 ---
 
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:36d1dc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:ff5e62&height=120&section=footer"/>
 </p>
